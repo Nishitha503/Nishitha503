@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Science Undergraduate<br>🚀 Aspiring Software Engineer<br>🌐 Full-Stack Web Development | React | Node.js<br>📚 Always learning and building new projects<br>🔥 Turning ideas into real-world applications
+💻 Computer Science Undergraduate<br>🚀 Aspiring Software Engineer<br>🌐 Full-Stack Web Development | React | Node.js<br>📚 Always learning and building new projects<br>🔥 Turning ideas into real-world applications.
 
 
 ## 🌐 Socials:
